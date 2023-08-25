@@ -16,8 +16,6 @@ To implement the given logic function verify its operation in Quartus using Veri
 
  Logic gates are electronic circuits which perform logical functions on one or more inputs to produce one output.
 
-## Logic Diagram
-
 ## Using AND gate:
 An AND gate is a fundamental digital logic gate that performs a logical conjunction on its input signals. It produces an output signal only when all of its input signals are high (logic level 1). If any of the input signals is low (logic level 0), the output of the AND gate remains low.
 
